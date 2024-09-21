@@ -1,0 +1,6 @@
+.aside {
+    padding: 20px;
+    background-color: #D3D3D3;
+    border-left: 2px solid #ccc;
+    grid-column: 1;
+}
