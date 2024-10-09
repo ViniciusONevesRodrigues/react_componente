@@ -5,9 +5,8 @@ function Navbar() {
         <div className={styles.navbar}>
             <ul className={styles['nav-menu']}>
                 <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#biomas">Biomas</a></li>
+                <li><a href="#itens">Itens</a></li>
             </ul>
         </div>
     );

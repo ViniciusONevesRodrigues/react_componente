@@ -2,9 +2,10 @@
     display: flex; 
     flex-direction: column; 
     padding: 20px;
-    background-color: #D3D3D3;
-    border-left: 2px solid #ccc;
+    background-color: #000;
+    border: 5px solid #4A90E2;
     height: 100%;
+    grid-column: 1;
 }
 
 .navbar h1 {
@@ -25,7 +26,7 @@
 
 .nav-menu a {
     text-decoration: none; 
-    color: black; 
+    color: white; 
 }
 
 .nav-menu a:hover {
